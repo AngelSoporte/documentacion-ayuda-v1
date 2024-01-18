@@ -1,0 +1,8 @@
+{
+  "label": "Módulo RR.HH",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Te damos la bienvenida en el Módulo de Recursos Humanos, donde existen tres áreas esenciales para la administración de personal. En el menú de Trabajadores, puedes agregar, editar y eliminar registros de los trabajadores, asignando responsabilidades de manera eficiente. El menú de Profesores te permite definir roles y disciplinas, facilitando la gestión del personal docente. Además, en Coordinadores, podrás asignar responsabilidades a cada coordinador y sus carreras."
+  }
+}

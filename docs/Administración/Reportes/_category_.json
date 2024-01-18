@@ -1,0 +1,9 @@
+{
+  "label": "Reportes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Dentro del Menú de Reportes, accedes a una herramienta para generar informes personalizados. Puedes crear informes detallados sobre pagos de parcialidades, flujo de ingresos, flujo de descuentos, alumnos deudores y alumnos con descuento. Estos informes son altamente personalizables, permitiéndote ajustar los parámetros según las necesidades específicas. Además, se generan en formato Excel para facilitar su análisis y compartición."
+  }
+}
+

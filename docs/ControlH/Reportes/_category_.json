@@ -1,0 +1,8 @@
+{
+  "label": "Reportes",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Dentro del menú de Reportes, tienes la función principal de generar informes de diversas categorías. Puedes obtener reportes generales por estudiantes, flujo de prematrículas, flujo de matrículas, flujo de bajas, cantidades por carreras, reporte de evaluaciones y reporte de procesos de ajustes. Algunos de estos informes son personalizables mediante la aplicación de filtros, y todos se descargan en formato Excel (.xlsx), proporcionando una herramienta eficaz para analizar y gestionar la información de manera detallada."
+  }
+}

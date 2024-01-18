@@ -1,0 +1,9 @@
+{
+  "label": "Administración",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "En el Menú de Administración, te encuentras con una variedad de funciones cruciales para la gestión académica. Puedes realizar acciones como abrir o cerrar evaluaciones, trabajar con cargas académicas (crear nuevas, ver detalles, asignar docentes, entre otros), gestionar estudiantes, y registrar evaluaciones manualmente. Además, cuentas con la posibilidad de administrar grupos, ya sea creando, editando o eliminando. Este menú ofrece herramientas esenciales para un control académico efectivo."
+  }
+}
+

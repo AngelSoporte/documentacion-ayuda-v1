@@ -1,0 +1,9 @@
+{
+  "label": "Configuraciones",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "En este menú, define niveles académicos, crea modalidades, establece reglamentos de evaluación, gestiona disciplinas y áreas de formación.  Agrega un RVOE, diseña carreras y perfiles, y configura tipos de instalaciones para cada disciplina. Además, adapta la forma en que se calculan y presentan los promedios académicos. Cada opción brinda un control total, creando, editando o eliminando, para ajustarse a las necesidades y estándares educativos."
+  }
+}
+

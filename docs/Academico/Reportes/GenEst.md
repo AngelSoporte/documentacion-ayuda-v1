@@ -1,0 +1,64 @@
+---
+sidebar_label: 'General de Estudiantes'
+sidebar_position: 3
+---
+
+# General de Estudiantes
+
+<div align="justify">En el Menú Reporte General de Estudiantes, genera informes globales o específicos, filtrando por variables como estado, fecha de ingreso, modalidad, nivel educativo, carrera, entre otras opciones. Este informe, descargable en formato Excel, proporciona una herramienta versátil para un análisis detallado y adaptado a tus necesidades.</div>
+
+## Genera un Reporte General de Estudiantes
+
+:::info GENERA REPORTES SIGUIENDO ESTOS PASOS:
+
+1. Ingresa al módulo "**Académico**" y en el menú de **Accesos directos** selecciona "**Reportes**".
+
+2. Selecciona la opción "**General de Estudiantes**".
+
+3. Filtra los **Estudiantes** usando las diferentes opciones.
+
+4. Una vez seleccionados los Estudiantes puedes generar el reporte de Excel. Selecciona "![](./img/IcoExl.png)" para obtener el documento de Excel.
+:::
+ 
+En el paso 4 busca filtrando **Estuidantes** haciendo clic en "![](./img/IcoFil.png)":
+
+* Busca un **Estudiante** en especifico filtrando por **Matrícula**, **Nombre** o **CURP**.
+
+* **Estado:** Filtra todos los **Estudiantes** con un estado en común.
+
+* **Nivel:** Puedes filtrar por **Nivel** académico.
+
+* **Carreras:** También puedes seleccionar **Estudiantes** por **Carrera**.
+
+* **Modalidad:** Puedes filtrar por modalidad.
+
+* **Generación:** Puedes filtrar **Estudiantes** por **Generación**.
+
+* **Grupo:** Filtra **Estudiantes** por **Grupo**.
+
+* **Campaña:** Filtra por **Campañas**.
+
+* **Datos Pendientes:** Puedes filtrar por **Estudiantes** que esten pendientes de datos.
+___
+
+:::caution IMPORTANTE
+Los datos que contienen "✱" son obligatorios.
+:::
+
+:::tip ¿Necesitas más ayuda?
+Recuerda escribirnos si tienes inquietudes sobre este u otros procesos en **Gedux**. Nuestro **Equipo de Soporte** está listo para ayudarte.
+:::
+
+export const Highlight = ({children, color}) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>
+    {children}
+  </span>
+);
+
+<center>¿Te resultó útil este artículo? <Highlight color="#B0AEAC">[Si](https://forms.gle/LP9LYvbSWSSDwAau7)</Highlight> <Highlight color="#B0AEAC">[No](https://forms.gle/LP9LYvbSWSSDwAau7)</Highlight> </center>

@@ -1,0 +1,9 @@
+{
+  "label": "Facturación",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "El menú de Facturación, las opciones están diseñadas para simplificar y optimizar el proceso de facturación de la institución. En la sección de Facturas, podrás consultar, descargar el complemento XML y gestionar el registro detallado de las facturas generadas, incluso cancelarlas según sea necesario. En el apartado de Público en General, accederás a una funcionalidad avanzada que te permitirá generar facturas de manera masiva. Esta opción está diseñada para agilizar el proceso de facturación al gestionar múltiples transacciones de manera eficiente, proporcionándote una herramienta clave para el manejo efectivo de las operaciones financieras de la institución."
+  }
+}
+

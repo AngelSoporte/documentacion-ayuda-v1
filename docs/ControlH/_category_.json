@@ -1,0 +1,8 @@
+{
+  "label": "Módulo Control escolar",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "El Módulo de Control Escolar ofrece un conjunto de herramientas para administrar eficientemente la información académica. En este módulo puedes crear y gestionar generaciones, definir periodos y ciclos, así como iniciar generaciones. La gestión de documentos y la importación de evaluaciones finales son funciones que puedes realizar en el sistema. En el ámbito de las asignaturas, puedes visualizar, crear, editar o eliminar asignaturas, sincronizarlas desde un plan de estudio y definir cupos para asignaturas optativas. El menú de Estudiantes facilita la creación, edición y eliminación de estudiantes, así como la gestión de documentos. También puedes realizar acciones como cambiar generación o grupo aun estudiante, editar matrículas y realizar cambios masivos de fecha de evaluaciones. El Menú de Administración permite abrir/cerrar evaluaciones, crear cargas académicas, bloquear evaluaciones y gestionar grupos. Dentro del Menú de Configuración, puedes personalizar respuestas para argumentos de inasistencia, motivos de baja, relaciones familiares, tipos de documentos, estados de enrolamiento, situaciones escolares, instituciones y reglas de notificación de inasistencias. Además, puedes ajustar evaluaciones para estudiantes irregulares y obtener reportes detallados desde el Menú de Reportes. Este módulo proporciona una administración completa y eficiente de la información académica en tu institución."
+  }
+}

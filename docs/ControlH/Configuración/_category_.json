@@ -1,0 +1,8 @@
+{
+  "label": "Configuración",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Dentro del Menú de Configuración, obtienes el poder de personalizar y definir los valores esenciales que darán forma a los menús de estudiantes y generaciones. Puedes ajustar los argumentos de inasistencia, definir motivos de baja, configurar relaciones familiares y tipos de documentos, establecer estados de enrolamiento, determinar instituciones relacionadas y establecer reglas específicas para las notificaciones de inasistencia. Puedes crear nuevos valores cuando sea necesario, realizar ediciones para reflejar cambios y eliminar aquellos que ya no sean pertinentes."
+  }
+}

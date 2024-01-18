@@ -1,0 +1,8 @@
+{
+  "label": "Estudiantes",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Dentro del menú de Estudiantes, tienes la capacidad de abordar situaciones específicas relacionadas con estudiantes irregulares. Puedes generar informes detallados sobre estudiantes irregulares, personalizándolos mediante filtros como estado del estudiante, situación escolar, generación, carrera, entre otros. Estos informes se descargan en formato Excel. Además, cuentas con la opción de Ajustar Evaluaciones, permitiéndote buscar estudiantes y realizar ajustes manuales en sus evaluaciones."
+  }
+}

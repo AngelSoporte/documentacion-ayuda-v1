@@ -1,0 +1,8 @@
+{
+  "label": "Módulo Administración",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "¡Bienvenido al Módulo de Administración!En este espacio, aprenderás a gestionar pagos esenciales, como inscripciones, mensualidades y reinscripciones. También podrás generar pagos derivados y generales según las necesidades de la institución. La personalización es clave, y el menú de configuraciones te permitirá ajustar elementos vitales, como conceptos de pago, cuentas de abono, clasificación de ingresos, descuentos y formas de pago. El menú de facturación agiliza la generación eficiente de facturas, mientras que el área de Pagos te brinda la capacidad de realizar transacciones a estudiantes y prematriculados. Además, puedes generar reportes detallados y consultar pagos referenciados y en línea. El menú de Reportes te ofrece la flexibilidad para generar informes específicos o generales, proporcionando un análisis detallado de la gestión financiera."
+  }
+}

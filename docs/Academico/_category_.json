@@ -1,0 +1,8 @@
+{
+  "label": "Módulo del Académico",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "description": "Bienvenido al Módulo Académico. Aquí, encontrarás una variedad de herramientas diseñadas para optimizar cada aspecto de la administración académica. En el Menú de Generaciones, tendrás el control total sobre la creación, edición y eliminación de generaciones. Además, podrás iniciar nuevas generaciones, definir sus periodos y ciclos, y gestionar eficientemente la matriculación de estudiantes. La importación de evaluaciones finales y la gestión de documentos de estudiantes. El apartado de Asignaturas te permite manejar todas las disciplinas de forma completa. Desde la creación y edición hasta la eliminación de asignaturas, tendrás el control total sobre la oferta académica. Además, podrás definir cupos para asignaturas optativas y gestionar grupos con facilidad. Dentro del Menú de Estudiantes, podrás acceder a información detallada de cada estudiante, realizar matriculaciones y gestionar cargas académicas. El módulo de Cargas Académicas te brinda la posibilidad de registrar evaluaciones, llevar un control de asistencias y modificar estados según sea necesario. Los Grupos, en su menú dedicado, permiten una gestión, creando, editando o eliminando grupos según las necesidades. Puedes generar reportes específicos por grupo para un análisis detallado. El Menú de Reportes completa este módulo, ofreciendo la capacidad de generar informes sobre el flujo de matrículas, flujo de bajas y un reporte general por estudiante. Estos informes proporcionan una visión completa de la dinámica académica, facilitando la toma de decisiones informadas." 
+  }
+}

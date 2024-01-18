@@ -1,0 +1,9 @@
+{
+  "label": "Configuracion",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "El menú de configuraciones, te da el control de definir y personalizar conceptos como clasificación de ingreso, conceptos de pago, conceptos de abono, descuentos de pago, formas de pago, generaciones y reglas de pago. Cada una de estas opciones te permite visualizar, crear, editar o eliminar según las necesidades específicas de la institución."
+  }
+}
+

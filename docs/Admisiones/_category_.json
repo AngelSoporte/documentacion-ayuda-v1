@@ -1,0 +1,8 @@
+{
+  "label": "Módulo Admisiones",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Bienvenido al Módulo de Admisiones, diseñado para brindarte un control total sobre el proceso de inscripción. Aquí, podrás definir parámetros de las generaciones como la campaña que pertenecen, cupos para la generación y establecer fechas de inscripción, entre otros. También puedes gestionar descuentos de manera eficiente y diseñar estrategias efectivas mediante la creación, edición y eliminación de campañas. Además de ser tu espacio central para el seguimiento de prospectos en su camino hacia la inscripción, el módulo te ofrece la capacidad de configurar elementos clave en el menú de prospectos. Define causas de baja, formas de contacto, origines de conocimiento, giros de empresas, empresas de procedencia, estados del prospecto y sus referencias. Obtén reportes detallados del proceso de admisiones, como General de estudiantes, flujo de prematriculas, flujo de inscripciones y cantidades por carreras. Descargables en formato Excel."
+  }
+}
