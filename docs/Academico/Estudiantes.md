@@ -193,7 +193,7 @@ ___
 
 3. Busca **Estudiantes** filtrando por **Matrícula** de **Estudiante**, **Nombre** o **CURP**.
 
-4. Completa el **Formulario** con la información solicitada. Puedes ver la Explicación en "**[Matricular Estudiante](http://localhost:3000/docs/Academico/Generaciones#matricular-estudiante)**".
+4. Completa el **Formulario** con la información solicitada. Puedes ver la Explicación en Matricular Estudiante.
 
 5. Presiona **"Continuar"** para pasar al siguiente **Formulario**.
 

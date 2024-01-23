@@ -10,13 +10,13 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Documentación',
   tagline: 'Guía de apoyo para Gedux',
-  favicon: '/img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://localhost:3000/',
+  url: 'https://ayuda.gedux.mx/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/pruebassss/my-website/build/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -69,7 +69,7 @@ const config = {
         title: 'Inicio',
         logo: {
           alt: 'Documentación',
-          src: '/img/gedux.png',
+          src: 'img/gedux.png',
         },
         items: [
           {

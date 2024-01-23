@@ -7,6 +7,7 @@ sidebar_position: 1
 
 <div align="justify">El Módulo de Plan de Estudio te permite diseñar programas académicos personalizados. Antes de comenzar, asegúrate de tener el RVOE, un documento otorgado por el gobierno mexicano que valida la calidad y legalidad de los programas académicos. Sigue estos pasos para crear tu Plan de Estudio:</div>
 
+
 ## Crea un Plan de Estudio 
 
 :::info Sigue estos pasos para crear un plan de estudio:

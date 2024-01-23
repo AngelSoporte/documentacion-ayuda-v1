@@ -206,7 +206,7 @@ ___
 
 5. Busca **Estudiantes** filtrando por **Matrícula** de **Estudiante**, **Nombre** o **CURP**.
 
-6. Completa el **Formulario** con la información solicitada. Puedes ver la Explicación en "**[Matricular Estudiante](http://localhost:3000/docs/Academico/Generaciones#matricular-estudiante)**".
+6. Completa el **Formulario** con la información solicitada. Puedes ver la Explicación en Matricular Estudiante.
 
 7. Presiona **"Continuar"** para pasar al siguiente **Formulario**.
 
@@ -526,7 +526,7 @@ ___
 
 7. Completa el **Formulario** con la información solicitada. 
 
-    📌***Nota:*** El **Formulario** lo puedes ver en **[Crear una Asignatura](http://localhost:3000/docs/ControlH/Genereaciones#crear-una-asignatura)**
+    📌***Nota:*** El **Formulario** lo puedes ver en Crear una Asignatura.
 
 8. Selecciona "**Aceptar**" para guardar cambios.
 :::
@@ -724,9 +724,9 @@ En el paso número 7 completa los campos del formulario con la siguiente informa
 
   📢 ***Importante:***
 
-  Para eliminar una **Asignatura Optativa**, hazlo en el Apartado de [Eliminar una Asignatura](http://localhost:3000/docs/Academico/Generaciones#eliminar-una-asignatura).
+  Para eliminar una **Asignatura Optativa**, hazlo en el Apartado de Eliminar una Asignatura.
 
-  Para editar una **Asignatura Optativa**, hazlo en el apartado de [Editar una Asignatura](http://localhost:3000/docs/Academico/Generaciones#editar-una-asignatura).
+  Para editar una **Asignatura Optativa**, hazlo en el apartado de Editar una Asignatura.
 ___
 
 ## Grupos
